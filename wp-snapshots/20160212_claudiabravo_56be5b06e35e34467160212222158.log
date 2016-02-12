@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-02-12 22:22:08
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.4
+WORDPRESS:	4.4.2
+PHP INFO:	5.5.24 | SAPI: apache2handler
+SERVER:		Apache/2.4.12 (Unix) OpenSSL/1.0.1m PHP/5.5.24 mod_perl/2.0.8-dev Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+MEMORY STACK: 32.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20160212_claudiabravo_56be5b06e35e34467160212222158_database.sql 
+SQL FILE SIZE: 613.26KB (627978) 
+SQL FILE TIME: 2016-02-12 22:22:09 
+SQL RUNTIME: 0.34 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/Claudia/Documents/Websites/claudia.dev 
+ARCHIVE FILE: 20160212_claudiabravo_56be5b06e35e34467160212222158_archive.zip 
+FILTERS: *ON* 
+DIRS:  /Users/Claudia/Documents/Websites/claudia.dev; 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20160212_claudiabravo_56be5b06e35e34467160212222158_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /Users/Claudia/Documents/Websites/claudia.dev/wp-snapshots/tmp/20160212_claudiabravo_56be5b06e35e34467160212222158_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 174.17KB 
+ARCHIVE RUNTIME: 0.06 sec. 
+MEMORY STACK: 32.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/Claudia/Documents/Websites/claudia.dev/wp-snapshots/tmp/20160212_claudiabravo_56be5b06e35e34467160212222158_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 613.26KB 
+Installer File: 318.86KB 
+Archive File: 174.17KB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 0.81 sec.
+PEAK PHP MEMORY USED: 35.25MB
+DONE PROCESSING => 20160212_claudiabravo 2016-02-12 22:22:09
+ 

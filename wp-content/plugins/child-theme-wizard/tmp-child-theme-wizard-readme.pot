@@ -1,0 +1,70 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Child Theme Wizard"
+msgstr ""
+
+#. Short description.
+msgid "Creates a child theme with one click and lets you customise its options."
+msgstr ""
+
+#. Screenshot description.
+msgid "create a Child Theme with just one click"
+msgstr ""
+
+#. Screenshot description.
+msgid "the wizard was successful"
+msgstr ""
+
+#. Screenshot description.
+msgid "you also get a nice thumbnail with your new child theme"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The Child Theme Wizard lets you create a new child theme without the need for additional tools, right from within the WordPress admin interface. Once activated you can find it under Tools - Child Theme Wizard."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Specify a parent theme, customise options such as title and description and click Create Child Theme. Upon success you will find your new theme under Appearance - Themes."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You have the option to include GPL License Terms if you wish. The Wizard will automatically create a thumbnail too. In future versions I may include an image uploader for this feature."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To find out more about Child Themes and why they are important please read https://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Either: Upload the entire folder <code>child-theme-wizard</code> to the <code>/wp-content/plugins/</code> directory. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Or: download the ZIP file, then head over to Plugins - Add New - Install, then browse to your file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Or: from Plugins - Add New, search for \"child theme wizard\", to find this plugin and hit \"install\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then: Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "You can find it under Tools - Child Theme Wizard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "corrected a spelling mistake (thanks, Cory!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "the parent theme is now queued via functions.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial Release"
+msgstr ""
